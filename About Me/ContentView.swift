@@ -20,7 +20,7 @@ struct ContentView: View {
                 .border(/*@START_MENU_TOKEN@*/Color.white/*@END_MENU_TOKEN@*/, width: /*@START_MENU_TOKEN@*/1/*@END_MENU_TOKEN@*/)
                 .padding(10)
                 .cornerRadius(40)
-            Button("Learn more about me") {
+            Button("Learn more About me") {
             }
             .font(.title2)
             .buttonStyle(.borderedProminent)
