@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack{
             
-            Text("Hi, I'm Catherine!g!")
+            Text("Hi, I'm Catherine!!")
                 .font(.title)
             Image("IMG_6725")
                 .resizable(resizingMode: .stretch)
