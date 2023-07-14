@@ -14,7 +14,6 @@
 		11A232CC2A604FC900806624 /* About_MeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A232CB2A604FC900806624 /* About_MeTests.swift */; };
 		11A232D62A604FC900806624 /* About_MeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A232D52A604FC900806624 /* About_MeUITests.swift */; };
 		11A232D82A604FC900806624 /* About_MeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A232D72A604FC900806624 /* About_MeUITestsLaunchTests.swift */; };
-		11A232E52A60569D00806624 /* second screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A232E42A60569D00806624 /* second screen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +44,6 @@
 		11A232D12A604FC900806624 /* About MeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "About MeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11A232D52A604FC900806624 /* About_MeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About_MeUITests.swift; sourceTree = "<group>"; };
 		11A232D72A604FC900806624 /* About_MeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About_MeUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		11A232E42A60569D00806624 /* second screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "second screen.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +96,6 @@
 			children = (
 				11A232BA2A604FC800806624 /* About_MeApp.swift */,
 				11A232BC2A604FC800806624 /* ContentView.swift */,
-				11A232E42A60569D00806624 /* second screen.swift */,
 				11A232BE2A604FC900806624 /* Assets.xcassets */,
 				11A232C02A604FC900806624 /* Preview Content */,
 			);
@@ -262,7 +259,6 @@
 			files = (
 				11A232BD2A604FC800806624 /* ContentView.swift in Sources */,
 				11A232BB2A604FC800806624 /* About_MeApp.swift in Sources */,
-				11A232E52A60569D00806624 /* second screen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
